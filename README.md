@@ -1,24 +1,14 @@
-# README
+# Startr
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A highly opinionated starter project. I likes my things the way I likes em!
 
-Things you may want to cover:
+Things I need/want that this has
 
-* Ruby version
+* Devise
 
-* System dependencies
+* A clean Gemfile
 
-* Configuration
+* HAML
 
-* Database creation
+* RSpec
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
